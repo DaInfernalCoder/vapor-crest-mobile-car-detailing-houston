@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CbskpBU1GV57EBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://vaporcrest.shop/services/)
+- [Interior Car Detailing](https://vaporcrest.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://vaporcrest.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://vaporcrest.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://vaporcrest.shop/services/headlight-restoration/)
+- [About](https://vaporcrest.shop/about/)
+- [Contact](https://vaporcrest.shop/contact/)
+<!-- SEO-NEXT:END -->
