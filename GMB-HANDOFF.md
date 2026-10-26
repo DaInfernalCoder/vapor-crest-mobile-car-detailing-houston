@@ -8,7 +8,7 @@ Create and launch Vapor Crest Mobile Car Detailing Houston as site 32 of the 100
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `vaporcrest.shop`
+- Registered domain: `fulshearcardetailing.shop`
 - Public phone: `+1 346-572-3236`
 - Street address: `4107 Westerdale Dr, Fulshear, TX 77441`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off

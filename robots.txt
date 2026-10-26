@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://vaporcrest.shop/sitemap.xml
+Sitemap: https://fulshearcardetailing.shop/sitemap.xml
