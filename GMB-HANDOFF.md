@@ -12,7 +12,7 @@ Create and launch Vapor Crest Mobile Car Detailing Houston as site 32 of the 100
 - Public phone: `+1 346-572-3236`
 - Street address: `4107 Westerdale Dr, Fulshear, TX 77441`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://fulshearcardetailing.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
